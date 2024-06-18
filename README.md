@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-Descrição do SweetPet
+#Descrição do SweetPet
+
 SweetPet é um aplicativo inovador e intuitivo desenvolvido para facilitar a adoção de animais de estimação. Com um design amigável e moderno, o SweetPet conecta potenciais adotantes a uma variedade de animais disponíveis para adoção em abrigos e organizações de resgate. O objetivo do SweetPet é não apenas ajudar os animais a encontrarem lares amorosos, mas também fornecer uma plataforma conveniente e informativa para aqueles que desejam adotar.
 
 Funcionalidades Principais
